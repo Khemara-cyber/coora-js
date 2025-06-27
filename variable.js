@@ -33,3 +33,5 @@ console.log(`Hello ${name} I know you're a ${jobs} `);
 let n1 = 60;
 let n2 = 40;
 console.log(n1 + n2);
+
+// operator (=, +=, -=, *=, /=, ++, --)
